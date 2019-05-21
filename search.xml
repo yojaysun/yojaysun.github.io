@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>日记-2018-12-30</title>
+      <link href="/2018/12/30/%E6%97%A5%E8%AE%B0-2018-12-30/"/>
+      <url>/2018/12/30/%E6%97%A5%E8%AE%B0-2018-12-30/</url>
+      
+        <content type="html"><![CDATA[<p align="right"> 2018-12-30 &ensp; 福州  &ensp;  阴  &ensp;</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的博客搭建历程</title>
+      <link href="/2018/12/30/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
+      <url>/2018/12/30/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博文-开始</title>
+      <link href="/2018/12/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%BC%80%E5%A7%8B/"/>
+      <url>/2018/12/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%BC%80%E5%A7%8B/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>one</title>
+      <link href="/2018/12/30/one/"/>
+      <url>/2018/12/30/one/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Markdown语法指南"><a href="#Markdown语法指南" class="headerlink" title="Markdown语法指南"></a><p align="center">Markdown语法指南</p></h1><a id="more"></a><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><blockquote><p>一级引用</p><blockquote><p>二级引用</p><blockquote><p>三级引用</p></blockquote></blockquote></blockquote><ul><li>一级列表<ul><li>二级列表<ul><li>三级列表</li></ul></li></ul></li></ul><ol><li>有序列表<ol><li>有序子列表</li></ol><ul><li>有序子列表</li></ul></li></ol><ul><li>有序列表<ul><li>无序子列表</li><li>无序子列表</li></ul></li></ul><ul><li style="list-style: none"><input type="checkbox" checked> 复选列表<ul><li style="list-style: none"><input type="checkbox" checked> 已办事例</li><li style="list-style: none"><input type="checkbox"> 待办事例</li></ul></li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Markdown&quot;);</span><br></pre></td></tr></table></figure><p><code>重点文字</code></p><p><del>删除线</del></p><p><strong>下划线</strong></p><p><strong><em>粗斜体</em></strong></p><p><strong>粗体</strong></p><p><em>斜体</em></p><p><a href="https://www.baidu.com" target="_blank" rel="noopener">百度一下</a></p><p><img src="https://www.baidu.com/img/bd_logo.png" alt="百度Logo"></p><p>这是个简单的表格</p><table><thead><tr><th>First Header</th><th>Second Header</th><th>Third Header</th></tr></thead><tbody><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr></tbody></table><p>出于美观的考虑，可以把两端都包围起来</p><table><thead><tr><th>First Header</th><th>Second Header</th><th>Third Header</th></tr></thead><tbody><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr></tbody></table><p>通过在标题分割行添加冒号<code>:</code>，你可以定义表格单元的对其格式：向左靠齐，居中和向右靠齐</p><table><thead><tr><th style="text-align:left">First Header</th><th style="text-align:center">Second Header</th><th style="text-align:right">Third Header</th></tr></thead><tbody><tr><td style="text-align:left">Left</td><td style="text-align:center">Center</td><td style="text-align:right">Right</td></tr><tr><td style="text-align:left">Left</td><td style="text-align:center">Center</td><td style="text-align:right">Right</td></tr></tbody></table><p>这是一个示例的表格使用案例</p><table><thead><tr><th style="text-align:left">名字</th><th style="text-align:center">年龄</th><th style="text-align:right">描述</th></tr></thead><tbody><tr><td style="text-align:left"> 张三</td><td style="text-align:center">十岁</td><td style="text-align:right"><strong>加粗的文字</strong></td></tr><tr><td style="text-align:left">王老五</td><td style="text-align:center">二十岁</td><td style="text-align:right"><a href="https://github.com/getActivity/Markdown" target="_blank" rel="noopener">支持添加链接</a></td></tr></tbody></table><p>支持外接键盘快捷键</p><table><thead><tr><th style="text-align:center">快捷键</th><th style="text-align:center">作用</th></tr></thead><tbody><tr><td style="text-align:center">   F1</td><td style="text-align:center">帮助</td></tr><tr><td style="text-align:center">   F6</td><td style="text-align:center">预览</td></tr><tr><td style="text-align:center"> Insert</td><td style="text-align:center">插入</td></tr><tr><td style="text-align:center"> Ctrl + Z</td><td style="text-align:center">撤销</td></tr><tr><td style="text-align:center"> Ctrl + Y</td><td style="text-align:center">重做</td></tr><tr><td style="text-align:center"> Ctrl + S</td><td style="text-align:center">保存</td></tr><tr><td style="text-align:center"> Ctrl + H</td><td style="text-align:center">替换</td></tr></tbody></table><p><a href="#一级标题">点击这里回到一级标题</a></p><hr><font face="微软雅黑" color="red" size="5">自定义字体样式、颜色、大小</font><hr><font color="#0000ff">也可以单独指定字体颜色</font><hr><p align="left">居左文本</p><br><p align="center">居中文本</p><br><p align="right">居右文本</p><hr><p>使用html标签<br>换行</p><hr>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>uybugbu</title>
+      <link href="/2018/12/28/uybugbu/"/>
+      <url>/2018/12/28/uybugbu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="HBuilderX-自述文件-markdown格式"><a href="#HBuilderX-自述文件-markdown格式" class="headerlink" title="HBuilderX 自述文件 ( markdown格式)"></a>HBuilderX 自述文件 ( markdown格式)</h1><hr><p><code>HBuilderX</code>，H是HTML的缩写，Builder是构造者，X是相当于HBuilder的下一代版本。我们也简称<code>HX</code>。<br><code>HX</code>是<strong>轻如编辑器、强如IDE</strong>的合体版本。<br>学好、精通<code>HX</code>，很多其他软件就不用研究了。<br><a id="more"></a></p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ol><li>轻巧<br> 仅10余M的绿色发行包(不含插件)</li><li>极速<br> 不管是启动速度、大文档打开速度、编码提示，都极速响应<br> C++的架构性能远超java或webkit架构</li><li>清爽护眼<br> 界面清爽简洁，绿柔主题经过科学的脑疲劳测试，是最适合人眼长期观看的主题界面</li><li>强大的语法提示<br> <code>HX</code>自研了强大的AST语法分析引擎，能对代码进行深度语法分析，给予准确的语法提示而不是猜单词</li><li>高效字处理能力<br> <code>HX</code>对字处理提供了更崇高的支持<br> 更强大的多光标、智能双击…让字处理的效率大幅提升<br> 了解<code>HX</code>的极客技巧，<a href="http://ask.dcloud.net.cn/article/13191" target="_blank" rel="noopener">请访问</a>，按下Alt+鼠标左键可直接打开网址</li><li>markdown优先<br> <code>HX</code>是唯一一个新建文件默认类型是markdown的编辑器，也是对md支持最强的编辑器，你甚至可以直接粘贴表格、图片进来<br> 对于技术人员，我们强烈建议你以后不要使用记事本了，用markdown来替代txt<br> 本自述文件就是漂亮的markdown文档，这是技术人员才能独享的美:)<br> <code>HX</code>为md强化了众多功能，请<strong>务必点击</strong>【菜单-帮助-markdown语法示例】，快速掌握md及<code>HX</code>的强化技巧！</li><li>更强的json支持<br> 现代js开发中大量json结构的写法，<code>HX</code>提供了比其他工具更高效的操作<br> <a href="http://ask.dcloud.net.cn/article/13526" target="_blank" rel="noopener">详见</a></li><li>更强的vue支持<br> <code>HX</code>应该是对vue支持最好的开发工具，让vue开发者效率倍增<br> <a href="http://ask.dcloud.net.cn/article/19601" target="_blank" rel="noopener">详见</a></li></ol><h2 id="扩展性"><a href="#扩展性" class="headerlink" title="扩展性"></a>扩展性</h2><p><code>HX</code>支持java插件、nodejs插件，并兼容了很多vscode的插件及代码块。<br>还可以通过外部命令，方便的调用各种命令行功能，运行在内置终端中，并设置快捷键。</p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>我们非常确定，<code>HX</code>将帮助技术人员大幅提升工作效率，不管是编写文档还是代码。<br>在我们团队内部，<code>HX</code>不止替代了其他开发工具，还替代了记事本、word、evernote等，成为霸屏工具，令我们爱不释手。<br>希望你也会喜欢上这款免费工具。</p><p><a href="https://dev.dcloud.net.cn/sponsor/" target="_blank" rel="noopener">赞助</a> 欢迎对我们的工作给予支持<br><a href="http://dev.dcloud.net.cn/wish/" target="_blank" rel="noopener">需求墙</a> 可以在这里投票，以影响我们的工作优先级<br><a href="http://ask.dcloud.net.cn/explore/" target="_blank" rel="noopener">论坛</a><br>QQ群：905643840、178140648</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 乱写的 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>“Markdown测试“</title>
+      <link href="/2018/12/28/yojaysun%E6%B5%8B%E8%AF%95/"/>
+      <url>/2018/12/28/yojaysun%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=862099032&auto=1&height=66"></iframe><br>展示一些markdown语法<br><a id="more"></a></p><h1 id="这里是一些文本字体"><a href="#这里是一些文本字体" class="headerlink" title="这里是一些文本字体"></a>这里是一些文本字体</h1><h2 id="1-斜体和粗体"><a href="#1-斜体和粗体" class="headerlink" title="1. 斜体和粗体"></a>1. 斜体和粗体</h2><p><br><br><em>斜体</em>或_斜体_<br><br><strong>粗体</strong><br><br><strong><em>加粗斜体</em></strong><br><br><del>删除线</del><br></p><h2 id="2-分级标题"><a href="#2-分级标题" class="headerlink" title="2. 分级标题"></a>2. 分级标题</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题&lt;br/&gt;</span><br><span class="line">## 二级标题&lt;br/&gt;</span><br><span class="line">### 三级标题&lt;br/&gt;</span><br></pre></td></tr></table></figure><h2 id="3-超链接"><a href="#3-超链接" class="headerlink" title="3. 超链接"></a>3. 超链接</h2><h3 id="3-1-行内式"><a href="#3-1-行内式" class="headerlink" title="3.1. 行内式"></a>3.1. 行内式</h3><p>欢迎来到<a href="https://yojaysun.github.io/">yojaysun的Markdown测试</a><br>欢迎来到<a href="https://yojaysun.github.io/" title="yojaysun的Markdown测试">yojaysun的Markdown测试</a></p><h3 id="3-2-参考式"><a href="#3-2-参考式" class="headerlink" title="3.2. 参考式"></a>3.2. 参考式</h3><p>我经常去的几个网站<a href="http://www.google.com" target="_blank" rel="noopener">Google</a>,<a href="https://yojaysun.github.io/" title="yojaysun的Markdown测试">yojaysun的Markdown测试</a>,<a href="https://yojaysun.github.io/">yojaysun的Markdown测试</a>。</p><h3 id="3-3-自动链接"><a href="#3-3-自动链接" class="headerlink" title="3.3.自动链接"></a>3.3.自动链接</h3><p><a href="http://example.com/" target="_blank" rel="noopener">http://example.com/</a><br><a href="mailto:&#x61;&#x64;&#100;&#x72;&#101;&#115;&#x73;&#x40;&#x65;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#x63;&#111;&#x6d;" target="_blank" rel="noopener">&#x61;&#x64;&#100;&#x72;&#101;&#115;&#x73;&#x40;&#x65;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#x63;&#111;&#x6d;</a></p><h2 id="4-锚点"><a href="#4-锚点" class="headerlink" title="4. 锚点"></a>4. 锚点</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/12/28/hello-world/"/>
+      <url>/2018/12/28/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
