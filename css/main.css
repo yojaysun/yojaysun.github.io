@@ -1700,6 +1700,16 @@ pre .javascript .function {
 .fancybox-close:hover {
   border: none;
 }
+.post-copyright {
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #ff1700;
+  background-color: #f9f9f9;
+  list-style: none;
+}
+.post-copyright i.fa {
+  font-size: 15px;
+}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -1915,7 +1925,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #38fffe;
+  background: #7fffbd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2010,7 +2020,6 @@ pre .javascript .function {
 .post-toc .nav-item {
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
   line-height: 1.8;
 }
 .post-toc .nav .nav-child {
@@ -2908,10 +2917,21 @@ hr {
   }
 }
 .site-author-image {
-  border-radius: 50%;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  transition: 1.4s all;
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  max-width: 96px;
+  height: auto;
+  border: 2px solid #333;
+  border-radius: 60%;
+  transition: 2.5s all;
+}
+.site-author-image:hover {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
 }
 .post {
   margin-top: 0px;
