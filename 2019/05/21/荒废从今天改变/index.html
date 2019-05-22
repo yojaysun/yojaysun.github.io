@@ -29,18 +29,6 @@
   <script src="/lib/pace/pace.min.js?v=1.0.2"></script>
   <link rel="stylesheet" href="/lib/pace/pace-theme-loading-bar.min.css?v=1.0.2">
 
-<script>
-    (function(){
-        if(''){
-            if (prompt('请输入文章密码') !== ''){
-                alert('密码错误');
-                history.back();
-            }
-        }
-    })();
-</script>
-
-
 
 
 
@@ -114,18 +102,18 @@
 
 
 
-  <meta name="description" content="小记一番心情吧&amp;emsp;&amp;emsp;心血来潮,想起来我还有个博客😂,便来更新一波.">
+  <meta name="description" content="The article has been encrypted, please enter your password to view.">
 <meta name="keywords" content="日记,生活">
 <meta property="og:type" content="article">
 <meta property="og:title" content="荒废的一天">
 <meta property="og:url" content="http://yojaysun.github.io/2019/05/21/荒废从今天改变/index.html">
 <meta property="og:site_name" content="yojaysun的个人博客">
-<meta property="og:description" content="小记一番心情吧&amp;emsp;&amp;emsp;心血来潮,想起来我还有个博客😂,便来更新一波.">
+<meta property="og:description" content="The article has been encrypted, please enter your password to view.">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:updated_time" content="2019-05-21T17:22:10.796Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="荒废的一天">
-<meta name="twitter:description" content="小记一番心情吧&amp;emsp;&amp;emsp;心血来潮,想起来我还有个博客😂,便来更新一波.">
+<meta name="twitter:description" content="The article has been encrypted, please enter your password to view.">
 
 
 
@@ -540,7 +528,7 @@
                 
                   <span class="post-meta-item-text">本文字数：</span>
                 
-                <span title="本文字数">592</span>
+                <span title="本文字数">5.3k</span>
               
 
               
@@ -554,7 +542,7 @@
                 
                   <span class="post-meta-item-text">阅读时长 &asymp;</span>
                 
-                <span title="阅读时长">1 分钟</span>
+                <span title="阅读时长">5 分钟</span>
               
             </div>
           
@@ -574,8 +562,20 @@
       
 
       
-        <h1 id="小记一番心情吧"><a href="#小记一番心情吧" class="headerlink" title="小记一番心情吧"></a>小记一番心情吧</h1><p>&emsp;&emsp;心血来潮,想起来我还有个博客😂,便来更新一波.<br><a id="more"></a><br>&emsp;&emsp;今天照常是一个慵懒颓废的一天.上午没课,下午只有毛概.其余时间其实也不是很闲,<br>就是帮一个老同学同学做一个h5页面,然而不知不觉就把一天这样过完了,想来有些可怕.<br>&emsp;&emsp;事实上,即使不帮同学,我也是会把时间浪费在琢磨非学习事务上,学习一直没能抓住我的兴趣,<br>好气哟!!!我想改变这个现状,可不知道从哪下手…<br>&emsp;&emsp;其实早听过宿舍是大学生沦落的开始,我开始是不信的,自从上个学期开始,经常晚上在宿舍”学习”,我深有体会.<br>在宿舍根本不可能学习!但我却又逃离不了它的诱惑,我逐渐”宅”化,晚上不爱去教室,不爱写作业,不爱听讲…<br>我真的很怕去想象未来我的样子会是怎样.<br>&emsp;&emsp;emmm,为了做出一些改变,我,孙某人,今天23:52立下个flag吧,明天起,周日到周四每晚去教室自习,<br>直到放假.要是没去,就…就<code>背50个单词</code>吧.</p>
-
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<div id="hbe-security">
+  <div class="hbe-input-container">
+  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog.">
+    <label for="pass">Please enter the password to read the blog.</label>
+    <div class="bottom-line"></div>
+  </div>
+</div>
+<div id="decryptionError" style="display: none;">Incorrect Password!</div>
+<div id="noContentError" style="display: none;">No content to display!</div>
+<div id="encrypt-blog" style="display:none">
+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
+</div>
+<script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">
       
     </div>
 
